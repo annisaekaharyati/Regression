@@ -20,3 +20,6 @@ Description: Easy to follow multi linear regression example
 
 Description: Multiple linear regression of house prices including area and year as independed variables
 
+# Script name: Multiple_Logistic_regression
+
+Description: Multiple logistic regression example
